@@ -25,5 +25,3 @@ This project showcases a simple implementation of HTML generation using ESDL (Em
 
 ## Props
 - [Learn Haskell (Building a parser in Haskell)](https://learn-haskell.blog/01-about.html)
-
-(p.s. i hate haskell i dont want to ever touch it ever again)
